@@ -1,0 +1,9 @@
+/* App.css */
+
+.color-box {
+  width: 50px; /* Define the width of the color box */
+  height: 50px; /* Define the height of the color box */
+  margin: 5px; /* Add margin to create spacing between color boxes */
+  display: inline-block; /* Display color boxes inline */
+  border: 1px solid #000; /* Add a black border to color boxes (optional) */
+}
